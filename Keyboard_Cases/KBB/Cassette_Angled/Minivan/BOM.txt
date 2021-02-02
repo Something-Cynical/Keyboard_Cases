@@ -1,0 +1,8 @@
+Hardware from McMaster-Carr:
+Qt	P/N	Description
+2	94459A110	Heat set fixture for plastic 2.7mm installed
+6	94459A120	Heat set fixture for plastic 4.0mm installed
+2	96741A011	M2x0.4mm - 4mm long pan head screw or equivalent
+2	96741A012	M2x0.4mm - 5mm long pan head screw or equivalent
+4	97595A277	M2x0.4mm - 6mm long flat head socket cap screw or equivalent
+
