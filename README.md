@@ -1,5 +1,11 @@
 # Keyboard_Cases
 A Repo of Case Designs
+Originally was hoped to have some sense of organization, but until I relearn git it'll just be zip files with the case files in them.
+Each zip file will have at the very least the main body of the case in both a version for tapered heat sets and straight heat sets (M2).
+If I had to make a plate I'll try to remember the dxf, and I'll also try to remember to include the bottom base plate as an stl and a dxf.
+That way it's easy to Send Cut Send.
+
+The aspirational and obsolete structure (for now)
 Top level is "Keyboard Cases"
 Second level is "Manufacturer/Inspiration"
 Third level is "Case_Name"
