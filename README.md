@@ -5,7 +5,9 @@ Each zip file will have at the very least the main body of the case in both a ve
 If I had to make a plate I'll try to remember the dxf (otherwise it's kinda useless), and I'll also try to remember to include the bottom base plate as an stl and a dxf.
 That way it's easy to Send Cut Send.
 
-The aspirational and obsolete structure (for now)
+I would definitely double check all of the holes for your preferred heat sets
+
+The aspirational structure (for now)
 
 Top level is "Keyboard Cases"
 
