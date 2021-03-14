@@ -15,7 +15,7 @@ Second level is "Manufacturer/Inspiration" (except for the zip file in there tha
 
 Third level is "Case"
 
-Fourth level contains "Board Support"
+Fourth level contains "Board Support" (to some extent it may also have zip files named with the board name)
 
 Fifth level contains zip file with the stls and depending on things any number of the files described above.
 
